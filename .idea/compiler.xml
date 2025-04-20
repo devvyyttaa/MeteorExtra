@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MeteorExtra" options="-Xlint:deprecation -Xlint:unchecked -AoutRefMapFile=C:\Users\vytau\Desktop\MeteorExtra\build\classes\java\main\meteor-client-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\vytau\Desktop\MeteorExtra\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.main.tiny -AinMapFileNamedIntermediary=C:\Users\vytau\.gradle\caches\fabric-loom\1.21.5\net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2\mappings.tiny" />
+      <module name="MeteorExtra.launch" options="-Xlint:-options" />
+      <module name="MeteorExtra.launch.main" options="-Xlint:-options" />
+      <module name="MeteorExtra.launch.test" options="-Xlint:-options" />
+      <module name="MeteorExtra.main" options="-Xlint:deprecation -Xlint:unchecked -AoutRefMapFile=C:\Users\vytau\Desktop\MeteorExtra\build\classes\java\main\meteor-client-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\vytau\Desktop\MeteorExtra\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.main.tiny -AinMapFileNamedIntermediary=C:\Users\vytau\.gradle\caches\fabric-loom\1.21.5\net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2\mappings.tiny" />
+      <module name="MeteorExtra.test" options="-Xlint:deprecation -Xlint:unchecked -AoutRefMapFile=C:\Users\vytau\Desktop\MeteorExtra\build\classes\java\test\test-meteor-client-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\vytau\Desktop\MeteorExtra\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.test.tiny -AinMapFileNamedIntermediary=C:\Users\vytau\.gradle\caches\fabric-loom\1.21.5\net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2\mappings.tiny" />
+    </option>
+  </component>
+</project>
